@@ -14,12 +14,13 @@
 1.MaixPy IDE  
 2.Arduino IDE  
 3.kflash_gui  
-## Use
+## Use  
 [Hardware Circuit](CircuitDiagram/Final_Schematic_SunBone_2024-07-04.png)  
 [Web_DEMO](web_demo/)  
 [Main Script For ESP32](final_script/K210_ESP32_done)  
 [Main Script For K210](final_script/K210_Sunbone.py)  
-[model](final_script/K210_Sunbone.py)  
-[Hardware Circuit](model/sunbone.kmodel)  
+[model](model/sunbone.kmodel)  
 [kflash bin](require/maixpy_v0.6.3_2_gd8901fd22_with_lvgl.bin)
- 
+
+# thanks: 
+@github/lintao89
