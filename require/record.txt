@@ -1,0 +1,35 @@
+MaixPy 常見問題:
+https://wiki.sipeed.com/soft/maixpy/zh/others/maixpy_faq.html
+
+human pose estimation on k210 example:
+https://acculus.jp/2021/08/17/human-pose-estimation-on-canaan-k210/
+
+model file究極轉換:
+https://blog.csdn.net/qq_39889022/article/details/119687042
+https://blog.csdn.net/qq_38156104/article/details/135308191
+https://blog.csdn.net/ghost_him/article/details/113476647
+https://www.ciyundata.com/post/48185.html
+https://blog.csdn.net/u013666632/article/details/125171026
+https://blog.csdn.net/kalahali/article/details/129538442
+https://gitcode.com/MPolaris/onnx2tflite/blob/main/utils/__init__.py
+
+nncase v0.2.0 Beta4:
+https://github.com/kendryte/nncase/releases?page=3
+
+MaixHub:
+https://maixhub.com/
+
+test collection:
+https://github.com/felixchenfy/Realtime-Action-Recognition?tab=readme-ov-file#4-how-to-run--inference
+
+DFRobot:
+https://github.com/DFRobot/DFRobotDFPlayerMini
+
+種子碼載點:
+https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html
+https://mega.nz/folder/A8g1Hb4J#WcuoqvbpasKlVB8-YEpWPA/folder/wxgk3KKC
+
+常見疑難排解:
+https://blog.csdn.net/qq_51963216/article/details/125955949
+https://blog.csdn.net/qq_62392385/article/details/125824865
+https://wiki.sipeed.com/soft/maixpy/zh/get_started/get_started_fs.html

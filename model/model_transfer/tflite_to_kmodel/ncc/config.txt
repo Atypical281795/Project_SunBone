@@ -1,0 +1,2 @@
+https://blog.csdn.net/ghost_him/article/details/113476647
+ncc compile model_lr_0.tflite model_lr_0.kmodel -i tflite -o kmodel --dataset train
