@@ -45,28 +45,28 @@ void loop()
     if (receivedData == "A") 
     {
       Serial.println("test1");
-      myDFPlayer.playMp3Folder(1);  //播放mp3內的0001.mp3
+      myDFPlayer.playMp3Folder(1);
       delay(5000);
       myDFPlayer.pause();
     } 
     else if (receivedData == "B") 
     {
       Serial.println("test2");
-      myDFPlayer.playMp3Folder(2);  //播放mp3內的0001.mp3
+      myDFPlayer.playMp3Folder(2);
       delay(5000);
       myDFPlayer.pause();
     } 
     else if (receivedData == "C") 
     {
       Serial.println("test3");
-      myDFPlayer.playMp3Folder(3);  //播放mp3內的0001.mp3
+      myDFPlayer.playMp3Folder(3);
       delay(5000);
       myDFPlayer.pause();
     } 
     else if (receivedData == "D") 
     {
       Serial.println("test4");
-      myDFPlayer.playMp3Folder(4);  //播放mp3內的0001.mp3
+      myDFPlayer.playMp3Folder(4);
       delay(5000);
       myDFPlayer.pause();
     }
